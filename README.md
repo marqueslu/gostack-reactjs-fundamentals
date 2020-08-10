@@ -4,7 +4,7 @@
 
 ## :rocket: Overview
 
-This project contains the solution of the challenge 06 from the Rocketseat GoStack Bootcamp.
+This project contains the solution of the challenge 07 from the Rocketseat GoStack Bootcamp.
 The goal of this challenge is to implement some features for a personal financial control web app.
 You can find the challenge description here: [Challenge](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-reactjs/README.md)
 
